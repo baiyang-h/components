@@ -109,3 +109,13 @@ export default () => {
 }
 ```
 
+## 可编辑单元格
+
+<code src="../../src/pages/table/edit-cell-table" />
+
+
+## 可编辑行
+
+<code src="../../src/pages/table/edit-row-table" />
+
+

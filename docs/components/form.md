@@ -335,6 +335,7 @@ export default () => {
         ref={searchRef}
         {...formItemLayout}
         config={config}
+        showBtns={true}
         onFinish={onFinish}
         onValuesChange={onValuesChange}
       />

@@ -68,7 +68,7 @@ class AdvancedForm extends React.Component {
     config: [],
     labelCol: { span: 8 },
     wrapperCol: { span: 16 },
-    showBtns: true,
+    showBtns: false,
     showResetBtn: true,
     btnTexts: ['重置', '提交'],
   }
