@@ -51,6 +51,7 @@ export default () => {
         }
       ],
       attrs: {
+        // 是否自定义了reg, 如只能输入数字 
         reg: /\d/,
         maxLength: 4,
       }
